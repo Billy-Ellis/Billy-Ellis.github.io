@@ -20,6 +20,7 @@ During 2018, I had my first shot at public speaking and gave a talk at two confe
 
 If you want to contact me:
 [Twitter](https://twitter.com/bellis1000)
+
 [YouTube](https://youtube.com/c/BillyEllis)
+
 [LinkedIn](https://uk.linkedin.com/in/billy-ellis)
-[E-mail](billy@zygosec.com)
